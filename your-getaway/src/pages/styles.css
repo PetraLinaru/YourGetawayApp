@@ -1,0 +1,135 @@
+
+
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    background-color: #ffffff;
+  }
+  .frame-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .header {
+    height: 126px;
+    width: 1762px;
+  }
+  .rectangle-1 {
+    height: 126px;
+    width: 1762px;
+    background-color: #628b8b;
+  }
+  .text-1 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 36px;
+    font-family: Avenir;
+    line-height: auto;
+    color: #ffffff;
+  }
+  .text-2 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 36px;
+    font-family: Avenir;
+    line-height: auto;
+    color: #ffffff;
+  }
+  .text-3 {
+    text-align: left;
+    vertical-align: top;
+    font-size: 36px;
+    font-family: Avenir;
+    line-height: auto;
+    color: #ffffff;
+  }
+  .landing-page-content {
+    height: 1043px;
+    width: 1762px;
+  }
+  .img-4 {
+    height: 1043px;
+    width: 1762px;
+  }
+  .landingpagecard {
+    height: 724px;
+    width: 549px;
+  }
+  .card {
+    border-radius: 36px;
+    height: 724px;
+    width: 549px;
+    background-color: white;
+    border: 3px solid ;
+  }
+  .login-button {
+    height: 82px;
+    width: 329px;
+  }
+  .rectangle-5 {
+    border-radius: 17px;
+    height: 82px;
+    width: 329px;
+    background-color: #b5e4e4;
+  }
+  .text-5 {
+    text-align: center;
+    vertical-align: top;
+    font-size: 32px;
+    font-family: Avenir;
+    line-height: auto;
+    color: #000000;
+  }
+  .signin-button {
+    height: 82px;
+    width: 329px;
+  }
+  .rectangle-2 {
+    border-radius: 17px;
+    height: 82px;
+    width: 329px;
+    background-color: #7ebdbd;
+  }
+  .text-6 {
+    text-align: center;
+    vertical-align: top;
+    font-size: 32px;
+    font-family: Avenir;
+    line-height: auto;
+    color: #000000;
+  }
+  .text-7 {
+    text-align: center;
+    vertical-align: top;
+    font-size: 48px;
+    font-family: Avenir;
+    line-height: auto;
+    color: #ffffff;
+  }
+    
+
+  .twelve h1 {
+    font-size:26px; font-weight:700;  letter-spacing:1px; text-transform:uppercase; width:160px; text-align:center; margin:auto; white-space:nowrap; padding-bottom:13px;
+  }
+  .twelve h1:before {
+      background-color: #c50000;
+      content: '';
+      display: block;
+      height: 3px;
+      width: 600px;
+      margin-bottom: 5px;
+  }
+  .twelve h1:after {
+      background-color: #c50000;
+      content: '';
+      display: block;
+    position:absolute; right:0; bottom:0;
+      height: 3px;
+      width: 650px;
+      margin-bottom: 0.25em;
+  }
+  
